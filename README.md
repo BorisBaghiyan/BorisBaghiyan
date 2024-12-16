@@ -1,5 +1,18 @@
 # 💫 About Me:
-Hi, I'm Boris, 21 years old. I'm studying at the IT faculty of the European University. I'm studying the ML direction of the Python programming language.
+👋 Hi there! I'm Boris
+💻 Python Developer | 🤖 Aspiring Machine Learning Engineer
+
+I enjoy exploring the endless possibilities of Python, from building applications to analyzing data. Currently, I'm diving deep into the fascinating world of machine learning and enhancing my skills in [mention a related tool, library, or concept you're focusing on, e.g., TensorFlow, scikit-learn, or deep learning].
+
+🔧 Skills & Tools:
+
+Languages: Python
+Libraries/Frameworks: [e.g., NumPy, Pandas, Matplotlib]
+Learning: Machine learning algorithms, [specific tool, e.g., TensorFlow or PyTorch]
+🌱 Currently Working On:
+Developing ML projects to solve real-world problems and expanding my knowledge of AI technologies.
+
+Feel free to connect or check out my projects! 🌟
 
 
 # 💻 Tech Stack:
